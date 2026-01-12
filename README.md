@@ -14,4 +14,5 @@ Practicing JavaScript fundamentals
 - Reinforced conditional logic through simple examples.
 - Practiced if/else conditions and comparison operators.
 - Learned the difference between == and ===.
+- Practiced loops combined with conditional logic.
 
