@@ -15,4 +15,5 @@ Practicing JavaScript fundamentals
 - Practiced if/else conditions and comparison operators.
 - Learned the difference between == and ===.
 - Practiced loops combined with conditional logic.
+- Practiced basic array creation and iteration.
 
