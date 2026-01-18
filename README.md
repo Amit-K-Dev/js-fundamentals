@@ -18,3 +18,4 @@ Practicing JavaScript fundamentals
 - Practiced basic array creation and iteration.
 - Practiced basic array methods like push(), pop(), and using length.
 - Practiced JavaScript functions that process and return array values.
+- Practiced filtering arrays using loops and conditional logic.
