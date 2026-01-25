@@ -21,3 +21,4 @@ Practicing JavaScript fundamentals
 - Practiced filtering arrays using loops and conditional logic.
 - Practiced filtering arrays using JavaScript array.filter().
 - Practiced transforming arrays using JavaScript array.map().
+- Practiced summarizing arrays using JavaScript array.reduce().
