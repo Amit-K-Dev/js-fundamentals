@@ -23,3 +23,4 @@ Practicing JavaScript fundamentals
 - Practiced transforming arrays using JavaScript array.map().
 - Practiced summarizing arrays using JavaScript array.reduce().
 - Combined filter, map, and reduce for end-to-end data processing.
+- Practiced JavaScript arrow functions with array methods.
