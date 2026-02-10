@@ -25,3 +25,4 @@ Practicing JavaScript fundamentals
 - Combined filter, map, and reduce for end-to-end data processing.
 - Practiced JavaScript arrow functions with array methods.
 - Understand this keyword vs arrow functions. Arrow functions do NOT bind this. They inherit this from their surrounding scope.
+- Practiced JavaScript class syntax with constructors and methods.
