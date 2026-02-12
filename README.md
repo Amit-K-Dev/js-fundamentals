@@ -26,3 +26,4 @@ Practicing JavaScript fundamentals
 - Practiced JavaScript arrow functions with array methods.
 - Understand this keyword vs arrow functions. Arrow functions do NOT bind this. They inherit this from their surrounding scope.
 - Practiced JavaScript class syntax with constructors and methods.
+- Practiced JavaScript class inheritance using extends and super().
